@@ -17,12 +17,12 @@ def login():
 
 	
     if browser.find_element_by_name("username"):
-        browser.find_element_by_name("username").send_keys("bit-jp")
+        browser.find_element_by_name("username").send_keys("yyyyyyyyy")
 
     print("输入用户名")
 
     if browser.find_element_by_name("password"):
-        browser.find_element_by_name("password").send_keys("bitjp001!")
+        browser.find_element_by_name("password").send_keys("xxxxxxxxxx")
 
     print("输入密码")
       
